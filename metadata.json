@@ -1,0 +1,6 @@
+{
+  "name": "Tukang Bangunan Tangerang",
+  "description": "Website jasa konstruksi dan renovasi profesional di Tangerang. Kokoh, presisi, dan dibangun untuk generasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
